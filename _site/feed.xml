@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-11T09:48:35+01:00</updated><id>http://localhost:4000/</id><title type="html">Produgenesis</title><subtitle>Un producto en constante creación.</subtitle><author><name>produgenesis</name></author><entry><title type="html">Hello world!</title><link href="http://localhost:4000/2018/01/10/hello-world.html" rel="alternate" type="text/html" title="Hello world!" /><published>2018-01-10T00:00:00+01:00</published><updated>2018-01-10T00:00:00+01:00</updated><id>http://localhost:4000/2018/01/10/hello-world</id><content type="html" xml:base="http://localhost:4000/2018/01/10/hello-world.html">&lt;p&gt;Llevamos un par de semanas hablando desde la distancia: Enrique desde Brasil, Chema desde Madrid y yo —Gruncho— desde Gasteiz, nos separan miles e kilómetros pero cada semana intentamos encontrar un hueco para intercambiar ideas y montar proyectos en internet, algo que nos apasiona.&lt;/p&gt;
+
+&lt;p&gt;Tras darle muchas vueltas a diferentes asuntos de nuestras vidas, decidimos empezar creando un blog en el que poder compartir algunas de nuestras ideas, reflexiones y sobretodo, hacer un seguimiento de lo que vayamos haciendo, ¡sea lo que sea que vayamos a hacer!&lt;/p&gt;
+
+&lt;h3 id=&quot;qué-me-estás-contando&quot;&gt;Qué me estás contando&lt;/h3&gt;
+
+&lt;p&gt;Sí, puede que un listado venga bien para aclarar diferentes cosas que nos han pasado hasta la fecha:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;A Chema se le ocurrió llamarlo &lt;a href=&quot;http://produgenesis.com&quot;&gt;ProduGenesis&lt;/a&gt;, una mezcla entre Producto + Génesis, un nombre de lo más acertado puesto que nuestras ideas pretende ser en algún momento un producto, el cuál sigue y seguirá siempre en proceso.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Esto es un blog colaborativo entre 3 personas con diferentes conocimientos sobre el mundo de la tecnología, desarrollo, diseño, paleontología, negocios o sobre la dilatación del tiempo y contracción de la longitud, por ejemplo, los tres hemos sido durante años dueños de nuestro tiempo, y puede que alguno cosa más que interesante podamos compartir.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;El blog funciona gracias a jekyll y un template simplón llamado &lt;a href=&quot;http://jekyllthemes.org/themes/hydeout/&quot; traget=&quot;_blank&quot;&gt;Hydeout de Andrew Fong&lt;/a&gt;, basada en la estructura de otro famoso template de &lt;a href=&quot;http://github.com/mdo&quot; target=&quot;_blanK&quot;&gt;@mdo&lt;/a&gt;, ahora diseñador de Github y anteriormente conocido por ser el creador de Bootstrap, twitter…&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Quién sabe cuándo, cambiaremos este template por uno hecho de cero por nosotros, ¡más pronto que tarde lo prometo!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Estamos alojados en un repositorio de &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt;, y gracias a esto no pagamos ni un duro por el hosting ;-)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>produgenesis</name></author><summary type="html">Llevamos un par de semanas hablando desde la distancia: Enrique desde Brasil, Chema desde Madrid y yo —Gruncho— desde Gasteiz, nos separan miles e kilómetros pero cada semana intentamos encontrar un hueco para intercambiar ideas y montar proyectos en internet, algo que nos apasiona. Tras darle muchas vueltas a diferentes asuntos de nuestras vidas, decidimos empezar creando un blog en el que poder compartir algunas de nuestras ideas, reflexiones y sobretodo, hacer un seguimiento de lo que vayamos haciendo, ¡sea lo que sea que vayamos a hacer! Qué me estás contando Sí, puede que un listado venga bien para aclarar diferentes cosas que nos han pasado hasta la fecha: A Chema se le ocurrió llamarlo ProduGenesis, una mezcla entre Producto + Génesis, un nombre de lo más acertado puesto que nuestras ideas pretende ser en algún momento un producto, el cuál sigue y seguirá siempre en proceso. Esto es un blog colaborativo entre 3 personas con diferentes conocimientos sobre el mundo de la tecnología, desarrollo, diseño, paleontología, negocios o sobre la dilatación del tiempo y contracción de la longitud, por ejemplo, los tres hemos sido durante años dueños de nuestro tiempo, y puede que alguno cosa más que interesante podamos compartir. El blog funciona gracias a jekyll y un template simplón llamado Hydeout de Andrew Fong, basada en la estructura de otro famoso template de @mdo, ahora diseñador de Github y anteriormente conocido por ser el creador de Bootstrap, twitter… Quién sabe cuándo, cambiaremos este template por uno hecho de cero por nosotros, ¡más pronto que tarde lo prometo! Estamos alojados en un repositorio de Github Pages, y gracias a esto no pagamos ni un duro por el hosting ;-)</summary></entry></feed>
