@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bertín Jobs: El cuñado emprendedor, la amenaza está ahí.
+title: "Bertín Jobs: El cuñado emprendedor, la amenaza está ahí."
 excerpt_separator:  <!--more-->
 ---
 
