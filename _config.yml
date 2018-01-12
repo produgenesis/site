@@ -25,10 +25,14 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-assets
 
 # Custom vars
 version:            3.5.3
 sidebar_home_link:  true
+assets:
+  sources:
+    - _sass
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
