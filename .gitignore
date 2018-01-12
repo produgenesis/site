@@ -1,0 +1,6 @@
+#cache
+.asset-cache
+.sass-cache
+
+#generated site
+_site
