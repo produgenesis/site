@@ -17,6 +17,8 @@ author:
   name:           'produgenesis'
   url:            https://twitter.com/produgenesis
 
+google_analytics: UA-112768242-1
+
 paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
