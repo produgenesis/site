@@ -5,7 +5,7 @@ Hope you guess my name
 But what's puzzling you
 Is the nature of my game
 
-Sympathy for the Devil
+Sympathy for the Devil-Sus satánicas majestades, los Rolling.
 
 Comenzamos este blog hablando de emprendimiento,  de productos, de ideas  y de proyectos. Y me he dado cuenta que hay algo muy importante que no había hecho todavía: ¡Presentarme!
 
