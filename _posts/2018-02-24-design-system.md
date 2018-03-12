@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: post
 title:  "El auge de los sistemas de diseño en empresas orientadas a producto"
 permalink: /design-system/
 description: ""

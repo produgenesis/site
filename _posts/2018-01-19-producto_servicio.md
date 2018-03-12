@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: post
 title:  "Producto - Servicio"
 permalink: /producto-servicio/
 description: ""

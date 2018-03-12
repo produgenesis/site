@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: post
 title:  "Hello world!"
 permalink: /hello/
 description: ""

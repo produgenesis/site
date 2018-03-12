@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: post
 title:  "Bertín Jobs: El cuñado emprendedor, la amenaza está ahí."
 permalink: /bertin-jobs/
 description: ""

@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: post
 title:  "Chema Presentación"
 permalink: /chema/
 description: ""
