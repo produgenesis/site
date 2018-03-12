@@ -1,10 +1,19 @@
 ---
 layout: default
 ---
+<article class="post-default__article">
+  <h1 class="post-default__title">
+    {{ page.title }}
+  </h1>
+    <div class="post-default__author">
+    <h2 class="post-default__author-title">
+      {{ page.author }}
+    </h2>
+    <p class="post-default__author-title">
+      {{ page.author.desc }}
+    </p>
+  <div class="post-default__content">
+    {{ content }}
+  </div>
+</article>
 
-<header>
-  <h1 class="page-title">{{ page.title }}</h1>
-</header>
-<div class="content">
-  {{ content }}
-</div>

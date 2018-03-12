@@ -1,0 +1,41 @@
+$list-post-whitespace: 2rem;
+
+.list-post__title {
+  font-size: 2rem;
+  font-weight: bold;
+  padding-bottom: $list-post-whitespace;
+ }
+
+.list-post__ul {
+  padding-top: $list-post-whitespace;
+}
+
+.list-post__li {
+  padding-bottom: $list-post-whitespace;
+}
+
+.list-post__link {
+  display: block;
+  text-decoration: none;
+  transition: .2s opacity;
+}
+
+.list-post__link:hover {
+  opacity: .6;
+}
+
+.list-post__date {
+  font-size: 1.25rem;
+  opacity: .4;
+}
+
+.list-post__title-post {
+  font-size: 2rem;
+  padding: 1rem 0;
+}
+
+.list-post__author {
+  font-size: 1rem;
+  color: $color-gold;
+  font-style: italic;
+}

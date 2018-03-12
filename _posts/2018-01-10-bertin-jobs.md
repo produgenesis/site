@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "Bertín Jobs: El cuñado emprendedor, la amenaza está ahí."
-excerpt_separator:  <!--more-->
+layout: blog-post
+title:  "Bertín Jobs: El cuñado emprendedor, la amenaza está ahí."
+permalink: /bertin-jobs/
+description: ""
+date:   2018-01-10 09:00:00 +0200
+categories: blog
+author: chema
 ---
-
 Mucho se ha habla de lo difícil que es emprender en España, no te voy a contar nada que ya no sepas: Que si la administración lo pone difícil, que si el alta de autónomos, IVA, Ejemplo de ello es que Deliotte solo muestra una startup española en su listado EMEA de 2017...Vamos que el panorama no es muy favorable como bien sabes.
 Pero amigos,  hay una amenaza que todo buen emprendedor ha sufrido en silencio y hasta ahora nadie le ha dado la importancia que tiene. Me refiero a ese compañero paliza en el coworking, al que te llama para pedirte presupuestos cada dos por tres y luego no sabes nada de él en semanas,  al pesado que conociste en un Meetup y desde entonces no te puedes quitar de encima...Estoy seguro que si estás leyendo esto, en tu cabeza tienes a alguien que te encaja perfectamente en este perfil.
 

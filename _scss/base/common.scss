@@ -1,0 +1,60 @@
+// Part of the pitcher github.com/gruncho/stylestree
+//
+// Licensed under GPL v3 2017.
+// Run thanks to Sass: CSS width superpowers.
+
+@import '../variables/colors';
+@import '../variables/transitions';
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  overflow-x: hidden;
+}
+
+body {
+  background-color: rgba(221,212,204,0.2);
+  color: $color-black;
+  font-size: 62.5%; // = 10px, 2.4rem 14px, 2.4rem = 24px..
+  font-weight: normal; 
+  min-height: 100%;
+
+  // revise
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.content {
+  @extend .transition_content;
+}
+
+strong {
+  font-weight: bold; // revise typo
+}
+
+a {
+  color: inherit;
+}
+
+em {
+  font-style: italic;
+}
+
+img {
+  height: auto;
+  width: 100%;
+}
+
+::-moz-selection {
+  background: $color-gold;
+  color: $color-white;
+}
+
+::selection {
+  background: $color-gold;
+  color: $color-white;
+}

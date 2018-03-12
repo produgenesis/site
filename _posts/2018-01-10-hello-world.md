@@ -1,7 +1,11 @@
 ---
-layout: post
-title: Hello world!
-excerpt_separator:  <!--more-->
+layout: blog-post
+title:  "Hello world!"
+permalink: /hello/
+description: ""
+date:   2018-01-10 08:00:00 +0200
+categories: blog
+author: gruncho
 ---
 
 Llevamos un par de semanas hablando desde la distancia: Enrique desde Brasil, Chema desde Madrid y yo —Gruncho— desde Gasteiz, nos separan miles e kilómetros pero cada semana intentamos encontrar un hueco para intercambiar ideas y montar proyectos en internet, algo que nos apasiona.

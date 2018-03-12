@@ -1,0 +1,74 @@
+@import '../variables/colors';
+
+$transition-body-background-first: #999;
+$transition-body-background-final: #fafafa;
+
+.flash {
+  animation: flash .8s ease-in both;
+}
+
+@keyframes flash {
+  0% { 
+    opacity: 0;
+  } 
+  70% { 
+    opacity: 0;
+  } 
+  100% {
+    opacity: 1;
+  }
+}
+
+.flash_lateral {
+  animation: flash_lateral 1.8s both;
+}
+
+@keyframes flash_lateral {
+  0% { 
+    transform: translateX(-2800px) translateY(-30%);
+    opacity: 0;
+  } 
+
+  60% { 
+    transform: translateX(-2800px) translateY(-30%);
+    opacity: 1;
+  } 
+  100% {
+    transform: translateX(0) translateY(-30%);
+  }
+}
+
+.flash_top {
+  animation: flash_top .6s both;
+}
+
+@keyframes flash_top {
+  0% { 
+    opacity: 0;
+    transform: translateY(-1200px);
+  } 
+  80% { 
+    opacity: 1;
+    transform: translateY(20px);
+  } 
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.transition_content {
+  animation: transition_content .6s ease-in both;
+}
+
+@keyframes transition_content {
+  0% { 
+    opacity: 0;
+  } 
+  70% { 
+    opacity: 0;
+  } 
+  100% {
+    opacity: 1;
+  }
+}

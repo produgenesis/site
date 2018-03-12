@@ -1,3 +1,12 @@
+---
+layout: blog-post
+title:  "Chema Presentación"
+permalink: /chema/
+description: ""
+date:   2018-01-26 09:00:00 +0200
+categories: blog
+author: chema
+---
 ¡Todavía no me he presentado!
 
 Pleased to meet you
