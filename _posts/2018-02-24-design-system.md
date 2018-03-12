@@ -9,12 +9,12 @@ author: gruncho
 ---
 Fué en 2013 cuando <a href="http://bradfrost.com/blog/post/atomic-web-design/" target="_blank">Brad Frost publicó el famoso libro Atomic Design</a>, una "guía para diseñadores" que trata de juntar un principio básico del desarrollo orientado a componentes. 
 
-La teoría básica se centra básicamente en la reutilización de "módulos" definiendo cada recurso en átomos (un label, un input, un button...) e ir creando en escala "módulos" (con una terminología muy sencilla) hasta la definición de vistas completas, de manera que si ese átomo cambia, cambia también en todos los módulos donde se ha utilizado. Se pueden crear tantos "átomos, moléculas y organismos" como se considere necesario. 
+La teoría básica se centra en la reutilización de "módulos" definiendo cada recurso en átomos (un label, un input, un button...) e ir creando en escala "módulos" (con una terminología muy sencilla) hasta la definición de vistas completas, de manera que si ese átomo cambia, cambia también en todos los módulos donde se ha utilizado. Se pueden crear tantos "átomos, moléculas y organismos" como se considere necesario. 
 
-Este concepto facilita mucho el trabajo tanto de desarrolladores como de diseñadores, muchos lo utlizamos en la nomenclatura de carpetas en diseño, en la estructura de carpetas del desarrollo y/o hasta en las clases de CSS/JSS. 
+Este concepto facilita mucho el trabajo tanto de desarrolladores como de diseñadores, muchos lo utlizamos en la nomenclatura de carpetas en diseño, en la estructura de carpetas del desarrollo y hasta en las clases de CSS/JSS. 
 
 <p class="img"><img src="/public/img/2018/atomic-design.png" alt="Atomic design concept" title="Atomic design concept"></p>
-<p class="pie">Nomenclatura de los componentes de la teoría <em>"Atomic design"</em> de Brad Frost</p>
+<p class="pie">Nombre de los componentes en <em>"Atomic design"</em> por Brad Frost</p>
 
 Cinco años después del boom y la populizaración del término <em>"atomic design"</em> miles de equipos han seguido dando forma a la creación de guías de estilo basadas en componentes hasta el punto de hacer famoso un término que para las empresas de producto se ha vuelto vital: los sistemas de diseño, un término que ahora se puede ver en charlas, eventos, cursos y hasta herramientas de diseño que poco a poco se han ido adaptando al modelo de sistema de diseño.
 
@@ -29,9 +29,9 @@ Dicho de otra forma, desde el editable de Sketch hasta la nomenclatura de compon
 <p class="img"><img src="/public/img/2018/airbnb-01.png" alt="Airbnb design system" title="Airbnb design system"></p>
 <p class="pie">Building a Visual Language vía <a href="https://airbnb.design/building-a-visual-language/" target="_blank">airbnb.design</a></p>
 
-Uno de los conceptos más interesantes es el que sistema de diseño afecta en la metodología de trabajo de todos los equipos que participen en la creación del producto, el flujo de trabajo requiere que por ejemplo el equipo de diseño deba utilizar un lenguaje más cercano al del equipo de desarrollo. 
+Uno de los conceptos más interesantes del sistema de diseño es que afecta en la metodología de trabajo de todos los equipos que participen en la creación del producto, el flujo de trabajo requiere que por ejemplo el equipo de diseño deba utilizar un lenguaje más cercano al del equipo de desarrollo. 
 
-Ya sea en el proceso de creación de una App o una web o en la optimización de unas vistas ya existentes para crear Test A/B, el trabajo de todos y cada uno de los miembros del equipo técnico se debe basar en el sistema de diseño, que por supuesto también puede sufrir cambios y optimizarlo hasta el punto en el que se considere necesario, facilitando como ya he dicho "la cración" o "el día a día" en la optimización de una app o una herramienta.
+Ya sea en el proceso de creación de una App o la optimización de unas vistas ya existentes para crear Test A/B en una web, el trabajo de todos y cada uno de los miembros del equipo técnico se debe basar en el sistema de diseño, que por supuesto también puede sufrir cambios y optimizarlo hasta el punto en el que se considere necesario, facilitando como ya he dicho "la creación" o "el día a día" en la optimización de un producto.
 
 <p class="img"><img src="/public/img/2018/airbnb-02.png" alt="Airbnb design system" title="Airbnb design system"></p>
 
