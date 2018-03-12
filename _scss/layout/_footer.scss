@@ -1,0 +1,19 @@
+@import "../variables/colors";
+@import "../variables/grid";
+
+$footer-grid: $grid;
+$footer-color: $color-gray-content;
+
+.footer,
+.footer__credits {
+  margin: auto;
+}
+
+.footer {
+  color: $footer-color;
+  font-size: 0.85rem;
+  max-width: $footer-grid;
+  padding: 5rem 0 2rem 0;
+  text-align: center;
+  width: 90%;
+}

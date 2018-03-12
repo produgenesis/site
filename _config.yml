@@ -17,8 +17,6 @@ author:
   name:           'produgenesis'
   url:            https://twitter.com/produgenesis
 
-google_analytics: UA-112768242-1
-
 paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
@@ -37,3 +35,23 @@ sidebar_home_link:  true
                                 # to enable a separate blog link.
 github:
   repo:             https://github.com/produgenesis/site
+
+sass:
+  sass_dir: _scss
+  style: :compressed
+
+# Authors
+
+authors:
+  gruncho:
+    name: gruncho
+    twitter: gruncho
+    desc: Nací en Madrid en 1990, me dedico a proyectos en internet desde 1990 y actualmente soy diseñador y desarrollador web freelance en remoto, nací en Madrid pero ahora vivo en Vitoria-Gasteiz.
+  chema:
+    name: Chema
+    twitter: chemanavarro28
+    desc: Reference site about Lorem Ipsum, giving information on its origins, as well as a random Lipsum generator.
+  enrique:
+    name: Enrique
+    twitter: enriqueaf
+    desc: Reference site about Lorem Ipsum, giving information on its origins, as well as a random Lipsum generator.

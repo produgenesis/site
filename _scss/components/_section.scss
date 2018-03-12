@@ -1,0 +1,17 @@
+@import "../variables/grid";
+
+$section-row-max-width: $grid;
+
+.section {
+  padding: 5rem 0;
+}
+
+.section--row {
+  margin: auto;
+  max-width: $section-row-max-width;
+  width: 90%;
+}
+
+.section--complete {
+  width: 100%;
+}

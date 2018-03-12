@@ -1,0 +1,23 @@
+---
+layout: default
+---
+{% assign author = site.authors[page.author] %}
+<article class="post-default__article">
+  <p class="post-default__date">
+  </p>
+  <h1 class="post-default__title">
+    {{ page.title }}
+  </h1>
+  <div class="post-default__author">
+    Por {{ author.name }}
+  </div>
+  <div class="post-default__content">
+    {{ content }}
+  </div>
+  <!-- developing author module.. -->
+  <div class="post-default__author-desc">
+    <p> {{ author.name }} (<a href="http://twitter.com/{{ author.twitter }}" target="_blank">@{{ author.twitter }}</a>)</p>
+    <p> {{ author.desc }}</p>
+  </div>
+</article>
+

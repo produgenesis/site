@@ -1,3 +1,12 @@
+---
+layout: blog-post
+title:  "Producto - Servicio"
+permalink: /producto-servicio/
+description: ""
+date:   2018-01-19 09:00:00 +0200
+categories: blog
+author: chema
+---
 El lado oscuro de los Clientes: Cuando tu producto se convierte en servicio...
 
 Te levantas temprano, feliz por que tienes una reunión con ese cliente que llevas semanas queriendo reunirte.
