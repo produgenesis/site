@@ -7,7 +7,7 @@ date:   2018-02-24 08:00:00 +0200
 categories: blog
 author: gruncho
 ---
-Fué en 2013 cuando <a href="http://bradfrost.com/blog/post/atomic-web-design/" target="_blank">Brad Frost publico el famoso libro Atomic Design</a>, una "guía para diseñadores" que trata de juntar un principio básico del desarrollo orientado a componentes. 
+Fué en 2013 cuando <a href="http://bradfrost.com/blog/post/atomic-web-design/" target="_blank">Brad Frost publicó el famoso libro Atomic Design</a>, una "guía para diseñadores" que trata de juntar un principio básico del desarrollo orientado a componentes. 
 
 La teoría básica se centra básicamente en la reutilización de "módulos" definiendo cada recurso en átomos (un label, un input, un button...) e ir creando en escala "módulos" (con una terminología muy sencilla) hasta la definición de vistas completas, de manera que si ese átomo cambia, cambia también en todos los módulos donde se ha utilizado. Se pueden crear tantos "átomos, moléculas y organismos" como se considere necesario. 
 
