@@ -11,9 +11,10 @@ $footer-color: $color-gray-content;
 
 .footer {
   color: $footer-color;
+  font-family: $font-family-work;
   font-size: 0.85rem;
   max-width: $footer-grid;
-  padding: 5rem 0 2rem 0;
+  padding: 0 0 5rem 0;
   text-align: center;
   width: 90%;
 }
