@@ -26,9 +26,11 @@ $header-max-width: $grid;
 }
 
 .header__logo-link {
-  display: inline-block;
+  align-items: center;
+  display: flex;
   font-family: $font-family-playfair;
   font-size: 1.5rem;
+  flex-flow: row nowrap;
   position: relative;
   text-decoration: none;
   transition: .2s opacity, .2s color;
@@ -40,8 +42,7 @@ $header-max-width: $grid;
 }
 
 .header__logo-span {
-  display: inline-block;
-  transform: translateY(-10px);
+  display: inline-flex;
 }
 
 .header__logo-link:before {
