@@ -29,14 +29,29 @@ $header-max-width: $grid;
   display: inline-block;
   font-family: $font-family-playfair;
   font-size: 1.5rem;
-  padding: .5rem 1rem;
   position: relative;
   text-decoration: none;
-  transition: background .1s, color .4s;
+  transition: .2s opacity, .2s color;
 
   &:hover {
     color: $color-gold;
+    opacity: .9;
   }
+}
+
+.header__logo-span {
+  display: inline-block;
+  transform: translateY(-10px);
+}
+
+.header__logo-link:before {
+  background: url('../assets/icons/logo/egg.svg') no-repeat;
+  background-size: auto 100%;
+  content: '';
+  display: inline-flex;
+  height: 40px;
+  margin-right: .5rem;
+  width: 30px;
 }
 
 .header__nav {
@@ -48,7 +63,6 @@ $header-max-width: $grid;
   display: inline-block;
   font-family: $font-family-work;
   font-size: 1rem;
-  padding: 1rem;
   text-decoration: none;
   transition: color .2s, background .4s;
 
