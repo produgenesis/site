@@ -8,9 +8,20 @@
 @import "base/reset-form";
 @import "base/common";
 
+// variables
+
+@import "variables/breakpoints";
+@import "variables/colors";
+@import "variables/grid";
+@import "variables/transitions";
+
 // import
 
 @import "import/font";
+
+// Mixins
+
+@import "mixins/aspect-ratio";
 
 // layout
 
@@ -20,13 +31,13 @@
 // view
 
 @import "view/post-default";
-@import "view/home";
 
 // components
 
 @import "components/section";
 @import "components/list-post";
+@import "components/related-posts";
 
 // fonts 
 
-@import url('https://fonts.googleapis.com/css?family=Arimo|Playfair+Display');
+@import url('https://fonts.googleapis.com/css?family=Arimo:400,700|Playfair+Display');

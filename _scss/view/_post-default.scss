@@ -1,8 +1,3 @@
-@import "../variables/breakpoints";
-@import "../variables/grid";
-@import "../variables/colors";
-@import "../variables/font-size";
-
 $post-default-article-max-width: $grid;
 $image-max-width: $grid;
 $post-default-grid: $grid-content;
@@ -10,14 +5,15 @@ $post-default-grid-xxlarge: 1024px;
 $post-default-content-color: $color-gray-content;
 
 .post-default__article {
-  margin: auto;
+  background: $color-white;
+  margin: 3rem auto;
   max-width: 1020px;
-  padding: 5rem 0;
-  width: 90%;
+  padding: 2rem 1rem;
+  width: 100%;
 }
 
 .post-default__date,
-.picture,
+.post-default__picture,
 .post-default__content p{
   margin: auto;
   max-width: $post-default-grid;
@@ -26,10 +22,10 @@ $post-default-content-color: $color-gray-content;
 .post-default__title {
   color: $color-black;
   font-family: $font-family-playfair;
-  font-size: 2.5rem;
-  line-height: 2.55rem;
+  font-size: 2.25rem;
+  line-height: 2.35rem;
   margin: auto;
-  max-width: 1200px;
+  max-width: 90%;
   padding: .5rem 0 1rem 0;
   text-align: center;
 }
@@ -74,7 +70,8 @@ $post-default-content-color: $color-gray-content;
   p,
   ul,
   ol {
-    @extend .font-size-medium;
+    font-size: 1.05rem;
+    line-height: 1.75rem;
     padding-bottom: 1rem;
   }
 
@@ -146,8 +143,10 @@ $post-default-content-color: $color-gray-content;
     font-family: $font-family-playfair;
     font-size: 1.5rem;
     line-height: 2.5rem;
+    margin: auto;
     padding: 2rem 0 3rem 0;
     text-align: center;
+    width: 90%;
   }
 
   quote:before,
@@ -170,8 +169,8 @@ $post-default-content-color: $color-gray-content;
 
 .post-default__author {
   font-style: italic;
-  font-size: 1.25rem;
-  padding: 2rem 0;
+  font-size: 1rem;
+  padding: 1rem 0;
   text-align: center;
   opacity: .4;
 }
@@ -182,8 +181,12 @@ $post-default-content-color: $color-gray-content;
 
 @media #{$breakpoints-medium} {
   .post-default__title {
-    font-size: 3.5rem;
-    line-height: 3.25rem;
+    font-size: 3rem;
+    line-height: 3rem;
+  }
+
+  .post-default__article {
+    padding: 2rem 0;
   }
 
   .post-default__content {
@@ -195,17 +198,13 @@ $post-default-content-color: $color-gray-content;
 }
 
 @media #{$breakpoints-large} {
-  .post-default__title {
-    font-size: 4.5rem;
-    line-height: 4.5rem;
-    padding: 2rem 0 3rem 0;
-  } 
-}
-
-@media #{$breakpoints-xxxlarge} {
-  .post-default__title {
-    font-size: 6rem;
-    line-height: 6rem;
-    max-width: $post-default-grid-xxlarge;
-  } 
+  .post-default__content {
+    p,
+    ul,
+    ol {
+      font-size: 1.05rem;
+      line-height: 1.5rem;
+      padding-bottom: 1rem;
+    }
+  }
 }

@@ -1,23 +1,23 @@
 # Dependencies
-markdown:         kramdown
-highlighter:      rouge
+markdown: kramdown
+highlighter: rouge
 
 # Setup
-title:            Produgenesis
-tagline:          'Un producto en constante creación.'
-description:      'Un producto en constante creación.'
-url:              https://produgenesis.com
-baseurl:          # the optional subpath of your site, e.g. "/blog"
-                  # NB: This applies to all pages in your Jekyll site.
-                  # If you want to move just the blog index pages but keep
-                  # other pages at root, see the paginate_path and
-                  # sidebar_blog_link below.
+title: Produgenesis
+tagline: 'Un producto en constante creación.'
+description: 'Un producto en constante creación.'
+url: https://produgenesis.com
+baseurl: # the optional subpath of your site, e.g. "/blog"
+         # NB: This applies to all pages in your Jekyll site.
+         # If you want to move just the blog index pages but keep
+         # other pages at root, see the paginate_path and
+         # sidebar_blog_link below.
 
 author:
-  name:           'produgenesis'
-  url:            https://twitter.com/produgenesis
+  name: 'produgenesis'
+  url: https://twitter.com/produgenesis
 
-paginate:         5
+paginate: 5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
@@ -27,14 +27,14 @@ plugins:
   - jekyll-paginate
 
 # Custom vars
-version:            3.5.3
-sidebar_home_link:  true
+version: 3.5.3
+sidebar_home_link: true
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
-github:
-  repo:             https://github.com/produgenesis/site
+github: https://github.com/produgenesis
+repo: https://github.com/produgenesis/site
 
 sass:
   sass_dir: _scss

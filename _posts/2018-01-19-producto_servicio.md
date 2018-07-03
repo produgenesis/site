@@ -2,10 +2,10 @@
 layout: post
 title:  "Producto - Servicio"
 permalink: /producto-servicio/
-description: ""
 date:   2018-01-19 09:00:00 +0200
-categories: blog
+categories: Opinión
 author: chema
+thumbnail: /public/thumbnail/03.jpg
 ---
 El lado oscuro de los Clientes: Cuando tu producto se convierte en servicio...
 
