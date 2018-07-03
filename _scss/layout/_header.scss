@@ -76,9 +76,3 @@ $header-max-width: $grid;
   opacity: .4;
   text-decoration: line-through;
 }
-
-@media #{$breakpoints-large} {
-  .header {
-    padding: 0 20%;
-  }
-}

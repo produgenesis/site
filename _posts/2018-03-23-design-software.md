@@ -2,10 +2,10 @@
 layout: post
 title:  "Programas orientados al diseño de producto"
 permalink: /design-software/
-description: ""
 date:   2018-03-23 08:00:00 +0200
-categories: blog
+categories: Diseño
 author: gruncho
+thumbnail: /public/thumbnail/03.jpg
 ---
 La semana pasada publiqué un artículo haciendo un repaso sobre [cómo los diseños de sistemas están cambiando el flujo de trabajo en las empresas orientadas al producto]({{ site.url }}/design-systemlos), y al sector del diseño en general.
 

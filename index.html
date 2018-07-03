@@ -7,11 +7,14 @@ ref: index
     Últimas publicaciones
   </h3>
   <ul class="list-post__ul">
-    {% for post in site.categories.blog %}
+    {% for post in site.posts %}
       <li class="list-post__li">
         <a class="list-post__link" href="{{ post.url | prepend: site.baseurl }}">
-          <p class="list-post__date">
-            {{ post.date | date_to_string }}
+          <picture class="list-post__picture picture">
+            <img data-object-fit="cover" class="picture__img" alt="{{ post.title }}" title="{{ post.title }}" src='{{post.thumbnail}}'/>
+          </picture>
+          <p class="list-post__meta">
+            {{ post.categories }}
           </p>
           <h2 class="list-post__title-post">
             {{ post.title }}

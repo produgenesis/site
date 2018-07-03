@@ -2,17 +2,18 @@
 layout: post
 title:  "Chema Presentación"
 permalink: /chema/
-description: ""
 date:   2018-01-26 09:00:00 +0200
-categories: blog
+categories: Personal
 author: chema
+thumbnail: /public/thumbnail/04.jpg
 ---
 ¡Todavía no me he presentado!
 
-Pleased to meet you
+<quote>Pleased to meet you
 Hope you guess my name
 But what's puzzling you
 Is the nature of my game
+</quote>
 
 Sympathy for the Devil-Sus satánicas majestades, los Rolling.
 
