@@ -138,6 +138,7 @@ $post-default-content-color: $color-gray-content;
     max-width: 100%;
   }
 
+  blockquote,
   quote {
     display: block;
     font-family: $font-family-playfair;
@@ -149,6 +150,8 @@ $post-default-content-color: $color-gray-content;
     width: 90%;
   }
 
+  blockquote:before,
+  blockquote:after,
   quote:before,
   quote:after {
     background: $color-gold;
@@ -158,12 +161,21 @@ $post-default-content-color: $color-gray-content;
     width: 120px;
   }
 
+  blockquote:before,
   quote:before {
     margin: 0 auto 3rem auto;
   }
 
+  blockquote:after,
   quote:after {
     margin: 3rem auto 0 auto;
+  }
+
+  .highlighter-rouge {
+    background: $color-gray;
+    border-radius: 24px;
+    padding: .2rem .4rem;
+    color: $color-white;
   }
 }
 
@@ -202,9 +214,15 @@ $post-default-content-color: $color-gray-content;
     p,
     ul,
     ol {
-      font-size: 1.05rem;
-      line-height: 1.5rem;
-      padding-bottom: 1rem;
+      font-size: 1.15rem;
+      line-height: 2rem;
+      padding-bottom: 1.5rem;
+    }
+
+    quote,
+    blockquote {
+      font-size: 2.5rem;
+      line-height: 3.5rem;
     }
   }
 }
