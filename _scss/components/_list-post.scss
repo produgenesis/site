@@ -1,41 +1,113 @@
-$list-post-whitespace: 2rem;
-
-.list-post__title {
-  font-size: 2rem;
-  font-weight: bold;
-  padding-bottom: $list-post-whitespace;
- }
+.list-post {
+  max-width: 1020px;
+}
 
 .list-post__ul {
-  padding-top: $list-post-whitespace;
+  .list-post__li:nth-child(2n+0) {
+    .list-post__picture {
+      @include aspect-ratio(2,3);
+    }
+  }
+
+  .list-post__li:nth-child(3) {
+    .list-post__picture {
+      @include aspect-ratio(5,3);
+    }
+  }
+
+  .list-post__li:nth-child(5) {
+    .list-post__picture {
+      @include aspect-ratio(2,3);
+    }
+  }
 }
 
 .list-post__li {
-  padding-bottom: $list-post-whitespace;
+  margin-bottom: 2rem;
 }
 
 .list-post__link {
   display: block;
   text-decoration: none;
-  transition: .2s opacity;
+  transition: opacity .6s;
 }
 
 .list-post__link:hover {
   opacity: .6;
 }
 
-.list-post__date {
-  font-size: 1.25rem;
-  opacity: .4;
+.list-post__title,
+.list-post__meta,
+.list-post__title-post {
+  font-family: $font-family-work;
 }
 
+.list-post__title {
+  font-family: $font-family-work;
+  font-size: 1rem;
+  line-height: 1rem;
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 2rem;
+}
+
+.list-post__title:after {
+  background: $color-corporative;
+  content: '';
+  display: block;
+  height: 2px;
+  margin: 1rem auto;
+  width: 120px;
+}
+
+ .list-post__meta {
+  color: $color-ligth-gray;
+  font-size: 1rem;
+  padding: 2rem 0 .5rem 0;
+ }
+
 .list-post__title-post {
-  font-size: 2rem;
-  padding: 1rem 0;
+  font-size: 1.25rem;
+  font-weight: bold;
+  line-height: 1.5rem;
 }
 
 .list-post__author {
-  font-size: 1rem;
   color: $color-gold;
+  font-size: 1rem;
   font-style: italic;
+  padding-top: 1rem;
+}
+
+.list-post__picture {
+  @include aspect-ratio(1,1);
+}
+
+@media #{$breakpoints-large} {
+  .list-post__ul {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    
+    .list-post__li:nth-child(2n+0) {
+      margin-top:15rem;
+    }
+
+    .list-post__li:nth-child(3) {
+      flex: 0 1 60%;
+      margin-left: 20%;
+      margin-top: 5rem;
+      margin-bottom: 5rem;
+    }
+  }
+
+  .list-post__li {
+    flex: 0 1 45%;
+  }
+
+  .list-post__title {
+    font-size: 1.25rem;
+    line-height: 1.25rem;
+    padding-bottom: 4rem;
+  }
 }
