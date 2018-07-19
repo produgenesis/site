@@ -2,17 +2,24 @@
 layout: default
 ---
 {% assign author = site.authors[page.author] %}
+<picture class="picture post-default__thumbnail">
+  <img data-object-fit="cover" class="picture__img" alt="{{ post.title }}" title="{{ page.title }}" src='{{page.thumbnail}}'/>
+</picture>
 <article class="post-default__article">
-  <p class="post-default__date">
-  </p>
-  <h1 class="post-default__title">
-    {{ page.title }}
-  </h1>
-  <div class="post-default__author">
-   Pubilcado el {{ page.date  | date_to_string }} por <a href='http://twitter.com/{{ author.twitter }}' target="_blank">{{ page.author }}</a>
+  <div class="post-default__header-title">
+    <h1 class="post-default__title">
+      {{ page.title }}
+    </h1>
+    <div class="post-default__author">
+      Pubilcado el {{ page.date  | date_to_string }} por <a href='http://twitter.com/{{ author.twitter }}' target="_blank">{{ page.author }}</a>
+    </div>
   </div>
+
   <div class="post-default__content">
     {{ content }}
+    <p class="post-default__credits">
+      Créditos foto: {{ page.credits-photo }}
+    </p>
   </div>
   <!-- developing author module.. -->
   <div class="post-default__author-desc">

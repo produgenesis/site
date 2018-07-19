@@ -6,6 +6,8 @@ description: ""
 date:   2018-07-15 20:00:00 -0300
 categories: blog
 author: enrique
+thumbnail: /public/thumbnail/01.jpg
+credits-photo: John Fornander, unsplash.com
 ---
 Hola.
 

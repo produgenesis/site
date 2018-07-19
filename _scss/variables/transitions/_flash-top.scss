@@ -1,0 +1,16 @@
+.flash_top {
+  animation: flash_top both;
+  animation-duration: 2s;
+  animation-delay: 2s;
+}
+
+@keyframes flash_top {
+  0% { 
+    opacity: 0;
+    transform: translateY(-1200px);
+  } 
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

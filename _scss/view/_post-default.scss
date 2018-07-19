@@ -1,15 +1,54 @@
-$post-default-article-max-width: $grid;
+// Thumbnail
+$post-defaukt-thumbnail-height: 90vh;
+$post-default-thumbnail-after-background: linear-gradient(0deg, rgba($color-body, 1.0), rgba($color-body, 0));
+$post-defaukt-thumbnail-img-filter: grayscale(85%) contrast(1.2);
+
+// General
+$post-default-article-max-width: 980px;
 $image-max-width: $grid;
 $post-default-grid: $grid-content;
 $post-default-grid-xxlarge: 1024px;
 $post-default-content-color: $color-gray-content;
 
+.post-default__thumbnail {
+  @include aspect-ratio(3,2);
+
+  background: $color-corporative;
+  position: absolute;
+  left: 0;
+  height: $post-defaukt-thumbnail-height;
+  top: 0;
+  width: 100%;
+  z-index: 10;
+
+  img {
+    -webkit-filter: $post-defaukt-thumbnail-img-filter;
+    filter: $post-defaukt-thumbnail-img-filter;
+    opacity: .4;
+  }
+}
+
+.post-default__thumbnail:after {
+  background: $post-default-thumbnail-after-background;
+  bottom: 0;
+  content: '';
+  height: 70%;
+  left: 0;
+  position: absolute;
+  width: 100%;
+  z-index: 15;
+}
+
 .post-default__article {
+  @extend .transition_article;
+
   background: $color-white;
   margin: 3rem auto;
-  max-width: 1020px;
+  max-width: $post-default-article-max-width;
   padding: 2rem 1rem;
+  position: relative;
   width: 100%;
+  z-index: 50;
 }
 
 .post-default__date,
@@ -19,7 +58,15 @@ $post-default-content-color: $color-gray-content;
   max-width: $post-default-grid;
 }
 
+
+.post-default__header-title {
+  display: flex;
+  flex-flow: column;
+}
+
 .post-default__title {
+  @extend .transition_article-title;
+
   color: $color-black;
   font-family: $font-family-playfair;
   font-size: 2.25rem;
@@ -27,16 +74,21 @@ $post-default-content-color: $color-gray-content;
   margin: auto;
   max-width: 90%;
   padding: .5rem 0 1rem 0;
+  position: relative;
   text-align: center;
 }
 
-.post-default__date {
-  color: #999;
-  font-size: .75rem;
-  letter-spacing: 3px;
-  padding: 0 0 .5rem 0;
-  text-align: center;
-  text-transform: uppercase;
+.post-default__title:after {  
+  @extend .transition_article-title-after;
+
+  content: '';
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: black;
 }
 
 .post-default__content {
@@ -179,16 +231,28 @@ $post-default-content-color: $color-gray-content;
   }
 }
 
+.post-default__author,
+.post-default__content {
+  @extend .transition_article-extra;
+}
+
 .post-default__author {
+  color: $color-ligth-gray;
   font-style: italic;
   font-size: 1rem;
   padding: 1rem 0;
   text-align: center;
-  opacity: .4;
 }
 
 .post-default__author-desc {
   display: none;
+}
+
+.post-default__credits {
+  color: $color-ligth-gray;
+  font-size: .85rem !important; // 4ever.
+  font-style: italic;
+  padding-top: 2rem;
 }
 
 @media #{$breakpoints-medium} {
@@ -224,5 +288,9 @@ $post-default-content-color: $color-gray-content;
       font-size: 2.5rem;
       line-height: 3.5rem;
     }
+  }
+
+  .post-default__article {
+    margin: 10rem auto 5rem auto;
   }
 }

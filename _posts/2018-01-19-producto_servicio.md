@@ -5,7 +5,8 @@ permalink: /producto-servicio/
 date:   2018-01-19 09:00:00 +0200
 categories: Opinión
 author: chema
-thumbnail: /public/thumbnail/03.jpg
+thumbnail: /public/thumbnail/01.jpg
+credits-photo: John Fornander, unsplash.com
 ---
 El lado oscuro de los Clientes: Cuando tu producto se convierte en servicio...
 

@@ -1,0 +1,15 @@
+.transition_content {
+  animation: transition_content .6s ease-in both;
+}
+
+@keyframes transition_content {
+  0% { 
+    opacity: 0;
+  } 
+  70% { 
+    opacity: 0;
+  } 
+  100% {
+    opacity: 1;
+  }
+}

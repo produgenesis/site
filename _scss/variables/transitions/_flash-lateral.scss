@@ -1,0 +1,21 @@
+
+.flash_lateral {
+  animation: flash_lateral 1.8s both;
+}
+
+@keyframes flash_lateral {
+  0% { 
+    transform: translateX(-2800px) translateY(-30%);
+    opacity: 0;
+  } 
+  60% { 
+    transform: translateX(-2800px) translateY(-30%);
+    opacity: 1;
+  } 
+  100% {
+    transform: translateX(0) translateY(-30%);
+  }
+}
+
+
+
