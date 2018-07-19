@@ -5,7 +5,8 @@ permalink: /hello/
 date:   2018-01-10 08:00:00 +0200
 categories: Personal
 author: gruncho
-thumbnail: /public/thumbnail/02.jpg
+thumbnail: /public/thumbnail/01.jpg
+credits-photo: John Fornander, unsplash.com
 ---
 
 Llevamos un par de semanas hablando desde la distancia: Enrique desde Brasil, Chema desde Madrid y yo —Gruncho— desde Gasteiz, nos separan miles e kilómetros pero cada semana intentamos encontrar un hueco para intercambiar ideas y montar proyectos en internet, algo que nos apasiona.

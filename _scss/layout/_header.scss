@@ -3,13 +3,15 @@
 @import "../variables/transitions";
 
 $header-max-width: $grid;
+$header-box-shadow: 0 0 5px 5px rgba(0,0,0,.2);
+$header-logo-link-before-size: 30px;
 
 .header {
   @extend .flash_top;
   
   align-items: center;
   background: white;
-  border-bottom: 1px solid #ccc;
+  box-shadow: $header-box-shadow;
   display: flex;
   flex-flow: row nowrap;
   justify-content: space-between;
@@ -29,7 +31,7 @@ $header-max-width: $grid;
   align-items: center;
   display: flex;
   font-family: $font-family-playfair;
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   flex-flow: row nowrap;
   position: relative;
   text-decoration: none;
@@ -50,9 +52,9 @@ $header-max-width: $grid;
   background-size: auto 100%;
   content: '';
   display: inline-flex;
-  height: 40px;
+  height: $header-logo-link-before-size;
   margin-right: .5rem;
-  width: 30px;
+  width: $header-logo-link-before-size;
 }
 
 .header__nav {

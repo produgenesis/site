@@ -5,7 +5,8 @@ permalink: /chema/
 date:   2018-01-26 09:00:00 +0200
 categories: Personal
 author: chema
-thumbnail: /public/thumbnail/04.jpg
+thumbnail: /public/thumbnail/01.jpg
+credits-photo: John Fornander, unsplash.com
 ---
 ¡Todavía no me he presentado!
 

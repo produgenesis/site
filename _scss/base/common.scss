@@ -6,6 +6,8 @@
 @import '../variables/colors';
 @import '../variables/transitions';
 
+$color-body: #f8f6f4;
+
 *,
 *::before,
 *::after {
@@ -17,7 +19,7 @@ html {
 }
 
 body {
-  background-color: rgba(221,212,204,0.2);
+  background-color: $color-body;
   color: $color-black;
   font-size: 62.5%; // = 10px, 2.4rem 14px, 2.4rem = 24px..
   font-weight: normal; 
