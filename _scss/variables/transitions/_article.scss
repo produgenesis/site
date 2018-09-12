@@ -1,7 +1,7 @@
 
 .transition_article {
   animation: transition_article both;
-  animation-duration: 2s;
+  animation-duration: 1.5s;
   animation-delay: .5s;
 }
 
@@ -19,50 +19,10 @@
   }
 }
 
-.transition_article-title {
-  animation: transition_article-title both;
-  animation-duration: .1s;
-  animation-delay: 3s;
-}
-
-@keyframes transition_article-title {
-  0% { 
-    color: $color-white;
-  }
-  95% {
-    color: $color-white;
-  }
-  100% {
-    color: $color-black;
-  }
-}
-
-.transition_article-title-after {
-  animation: transition_article-title-after both;
-  animation-duration: 1s;
-  animation-delay: 2.5s;
-}
-
-@keyframes transition_article-title-after {
-  0% { 
-    width: 0;
-  }
-  40% {
-    width: 100%;
-  }
-  60% {
-    width: 100%;
-  }
-  100% {
-    width: 0;
-  }
-}
-
-
 .transition_article-extra {
   animation: transition_article-extra both;
   animation-duration: 1s;
-  animation-delay: 3s;
+  animation-delay: 2s;
 }
 
 @keyframes transition_article-extra {
