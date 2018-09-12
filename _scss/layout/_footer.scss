@@ -3,18 +3,41 @@
 
 $footer-grid: $grid;
 $footer-color: $color-gray-content;
+$footer-margin-mobile: 2rem;
+$footer-margin-desktop: 5rem;
 
-.footer,
-.footer__credits {
-  margin: auto;
-}
-
-.footer {
+.footer {  
+  @extend .grid;
+  
   color: $footer-color;
   font-family: $font-family-work;
   font-size: 0.85rem;
-  max-width: $footer-grid;
-  padding: 0 0 5rem 0;
-  text-align: center;
-  width: 90%;
+  margin-bottom: $footer-margin-mobile;
+  margin-top: $footer-margin-mobile;
+}
+
+.footer__content {
+  background: $color-white;
+  padding: 1rem;
+}
+
+.footer__copy {
+  padding-bottom: .5rem;
+}
+
+.footer__link {
+  font-size: .75rem;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+@media #{$breakpoints-large} {
+  .footer {
+    margin-bottom: $footer-margin-desktop;
+    margin-top: $footer-margin-desktop;
+
+  }
 }
