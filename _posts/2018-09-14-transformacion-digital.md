@@ -8,31 +8,23 @@ author: chema
 thumbnail: /public/thumbnail/01.jpg
 credits-photo: John Fornander, unsplash.com
 ---
-¡Todavía no me he presentado!
+Desde hace mucho tiempo venimos escuchando en uno u otro sitio el machacón concepto de Transformación digital. Ahí está, con ese zumbido, como la canción del verano. Si te dedicas al marketing, las ventas, la dirección de empresas… Todo tiene que pasar por Transformación digital. Y llegados a este punto machachón… que narices es la Transformación Digital?
 
-<quote>Pleased to meet you
-Hope you guess my name
-But what's puzzling you
-Is the nature of my game
-</quote>
+Qué NO es Transformación Digital:
 
-Sympathy for the Devil-Sus satánicas majestades, los Rolling.
+Una cosa está clara, te voy a decir lo que claramente NO es transformación digital en cualquier empresa u organización:
 
-Comenzamos este blog hablando de emprendimiento,  de productos, de ideas  y de proyectos. Y me he dado cuenta que hay algo muy importante que no había hecho todavía: ¡Presentarme!
+Comprar un teléfono o dispositivo de última generación. Seamos serios, que lleves un iPhone X o que tengas un equipo de altas prestaciones no significa nada. Puedes estar con un pedazo de equipo y no eres capaz de guardar una página en favoritos (esto lo he visto con mis propios ojos).  El hábito no hace al monje.
 
-Allá vamos, empecemos por el principio:
+Nombrar a un departamento o directivo como “transformador digital”  Esta situación es más habitual de lo que parece. Te encuentras con empresas que piensan que la Transformación Digital es “que Tecnología o Sistemas se ponga las pilas” y el resto de la empresa espera, desde su cómoda área de confort, a que otros nos digan como tengo que cambiar mi forma de trabajar.  Siento decirte que esto tampoco va a tranformate digitalmente ni a ti ni a tu empresa. 
 
-Hola, me llamo Chema Navarro y  nací en Madrid, en el fantástico barrio de Campamento, al suroeste de la capital. Tengo 37 años y soy un apasionado de tanta cosas que no se por donde empezar: Si me preguntas por una peli favorita lo mismo hoy te digo el Gran Dictador que mañana El Imperio contraataca...Depende un poco del día.  Eso si, si me preguntas por la mejor comedia de la historia te diré que la Vida de Brian sin duda...y el que lo niegue es un disidente! Y me encanta el fútbol, y claro, siendo de esta ciudad no puedo ser de otro equipo que no sea el Atleti... o es que hay otro equipo en Madrid?
+Comprar el último software de moda. Este es el gran clásico, ¿Qué la empresa no va bien? Contratemos esta nueva herramienta que es la leche… (y si te fijas, generalmente siempre vienen con tres letras: CRM, ERP, CMS, LMS). Otro gran error. Ojo, que no significa que todo este tipo de herramientas no sean importantes ni mucho menos, pero por si solas, sin la actitud ni las personas adecuadas desde luego que no vas a ningún sitio.¿De que te sirve un completo y carísimo ERP si nadie en la empresa está dispuesto a conectarte? O simplemente se usa para apuntar reuniones… Está claro que ese no es el camino. 
 
-Ahora vivo en Alcobendas, que es otra ciudad fantástica, con mi novia Erika (también fantástica) dos hamsters y una Playstation. Actualmente dirijo el área de Tecnología en Structuralia, que es una empresa donde damos formación online a ingenieros del  mundo y empresas del sector.
 
-¿Y de letras?
-Pues sí, desde chaval me fascinaba la Historia, y sin pensarlo mucho me metí a estudiar la carrera, de camino, descubrí la Arqueología casi de forma accidental gracias a tres fantásticas amigas y acabé ejerciendo durante años como arqueólogo. Desde la Universidad me llamó la atención la tecnología y los ordenadores.. Que si el Autocad, el Photoshop, el Filemaker, que si había que usar el Freehand por aquellos años para dibujar huesos y piedras..Eran otros tiempos, y todo aquello estaba despertando, en mi casa no tenía ordenador y usaba el de la universidad. Aquello de internet era  casi ciencia ficción  pero yo sentía que tarde o temprano iba a acabar trabajando en algo vinculado a esos ordenadores... Pero no sabía bien el qué.
 
-Durante varios años ejercí como arqueólogo, pero no te equivoques por que no es tan bonito como lo pintan.. Mucho polvo y muchas horas bajo el sol..Allá por el 2007 (joder que viejuno suena todo esto) yo estaba metido en un proyecto de excavación y alguien planteó que hacía falta una web...Y ahí levante la mano, había aprendido un poco en algún curso y oye...¿Quizá era ese mi momento no?. Mi primera web con Photoshop y HTML de tablas, que se dice pronto ahora.  Todavía se puede visitar en este enlace.
+Vale Chema, entonces ¿Qué es Transformación Digital? Muy sencillo: PERSONAS, nada de software ni hardware, simplemente personas que tienen una ACTITUD difrenete frente al CAMBIO constante que vivimos y con ellos poder minimizar la INCERTIDUMBRE que podemos tener hoy en día. Parece fácil, pero no es tan sencillo. 
 
-Con aquel proyecto supe que la arqueología y yo lo teníamos que dejar, que esto de buscar huesos esta muy bien, pero sentí "la llamada" de montar algo por mi cuenta más vinculado a la tecnología que a la historia. Pero una vez más, no sabía como...Algo que por cierto, es muy común a todos los emprendedores. Al final, la Crisis y otras circunstancias me empujaron a ello y me hicieron hacerme autónomo y montar mi propio  "Estudio de diseño web".  Madre mía que inocente que era entonces... Ni si quiera sabía que era ser un emprendedor. Mi idea era hacer páginas corporativas muy bonitas para clientes muy simpáticos llenos de billetes.... Efectivamente la realidad no fue esa.
+Simplemente memoriza estas palabras: PERSONAS; ACTITUD; ACEPTA VIVIER EN LA INCERTIDUMBRE, replanteate todo el trabajo que realizas y si este es mejorable con la tecnología que tienes a mano. Solo así podrás entender correctamente la Transformación digital y triunfar. 
 
-Poco a poco aprendí  a moverme mejor, a entender que es un cliente bueno de un mal cliente, a ofrecer soluciones de verdad dentro del mercado... Fueron unos años estupendos de crecimiento personal y profesional. En verdad creo que todo el mundo en la vida debería ser autónomo un par de años, aprender a poner precio a tu trabajo, saber venderlo y saber cobrar por ello. Mucho mejor que la mili.
 
-Un primaveral día de 2013 me acerqué a un networking de cata de vinos en el centro de Madrid. Conocí a un grupo de personas con inquietudes similares y surgió la "sinergia" de montar algo juntos. Ellos estaban preparando un gran proyecto de cooperativa de innovación vinculada a un enorme edificio moderno en Rivas. Allá voy yo me dije. Pero esto es otro capítulo que contaremos en futuros post.
+
