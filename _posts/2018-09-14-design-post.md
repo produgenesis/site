@@ -30,7 +30,7 @@ Generalmente llamamos "artículo" a un texto que puede o no incluír más conten
 
 ![Una captura de la web de Tumblr](/public/img/2018/tumblr.jpg)
 
-Cuando David Karp se planteo eso mismo, surgió Tumblr, "una forma más rápida y sencilla de entender un blog", reinvetó un concepto que básicamente "clasificaba" el contenido de "post" en diferentes publicaciones, concretamente en estos:
+Cuando David Karp se planteó eso mismo, surgió Tumblr, "una forma más rápida y sencilla de entender un blog", reinvetó un concepto que básicamente "clasificaba" el contenido de "post" en diferentes publicaciones, concretamente en estos:
 
 * Textos
 * Imágenes
