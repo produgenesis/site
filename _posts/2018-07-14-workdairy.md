@@ -14,9 +14,7 @@ Como su propio nombre indica, un diario de trabajo es un dietario escrito en pri
 
 Puede ser lo que quieras, puedes transmitir si estabas inseguro, si estabas contento y otros muchos detalles que leídos al tiempo, te ofrecen una perspectiva que la memoria no nos permite —a algunos— desarrollar con tanto detalle como lo hace la escritura.
 
-<p class="img"><img style="padding: 0 2rem;" src="http://farm8.staticflickr.com/7158/6745897701_6045e358d9_o.png" alt="El diario de trabajo de Hugo" title="El diario de trabajo de Hugo"></p>
-<p class="pie">Una vista en PDF del diario de Hugo.</p>
-
+![El diario de trabajo de Hugo](http://farm8.staticflickr.com/7158/6745897701_6045e358d9_o.png)
 
 ## Manos a la obra
 

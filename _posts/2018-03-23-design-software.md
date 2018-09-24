@@ -27,8 +27,8 @@ Y el más popular del momento es sin lugar a dudas [Studio](https://www.invision
 
 Vamos a indagar un poco en por qué estos programas son la base de un nuevo proceso de trabajo;
 
-<p class="img"><img src="/public/img/2018/sketch-preview.jpg" alt="Atomic design concept" title="Atomic design concept"></p>
-<p class="pie">Captura de <a href="https://sketchapp.com/elements" target="_blank">Sketch Elements UI Kit</a>.</p>
+![Sketch Elements UI Kit](/public/img/2018/sketch-preview.jpg)
+
 
 <h3 id="vectorial">Diseño vectorial</h3>
 

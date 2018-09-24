@@ -6,7 +6,7 @@
 @import '../variables/colors';
 @import '../variables/transitions';
 
-$color-body: #f8f6f4;
+$color-body: #FCFCFC;
 
 *,
 *::before,
@@ -19,7 +19,7 @@ html {
 }
 
 body {
-  background-color: $color-body;
+  background-color: #f0f0f0;
   color: $color-black;
   font-size: 62.5%; // = 10px, 2.4rem 14px, 2.4rem = 24px..
   font-weight: normal; 
