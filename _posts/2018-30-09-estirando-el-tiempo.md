@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Estirando el tiempo"
-permalink: /estirando el tiempo/
+permalink: /estirando-el-tiempo/
 description: ""
 date:   2018-09-30 04:00:00 -0300
 categories: diseño
