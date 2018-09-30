@@ -19,7 +19,9 @@ Cuando tu trabajo es diseñar y definir productos digitales, es tremendamente po
 
 ![Sprint Design GV Medium blog](/public/img/2018/what.png)
 
-Quizás el término *Sprint Design* te suene, sin entrar en muchos detalles, es una metodología de trabajo originaria de Google Ventures (la rama inversora de Alphabet), en la que a través de una serie de etapas, dinámicas de trabajo en grupo y un control estricto del tiempo (por ejemplo, 5 días), se validan ideas. Empresas como IDEO o THE GUARDIAN lo utilizan para innovar, pero te permite en tan solo una semana a transformar una idea en el MVP (producto viable mínimo) de un producto.
+Quizás el término *Sprint Design* te suene, sin entrar en muchos detalles, es una metodología de trabajo originaria de Google Ventures (la rama inversora de Alphabet), en la que a través de una serie de etapas, dinámicas de trabajo en grupo y un control estricto del tiempo, se validan ideas. 
+
+Empresas como IDEO o THE GUARDIAN lo utilizan para innovar, pero te permite en tan solo una semana a transformar una idea en el MVP (producto viable mínimo) de un producto.
 
 Todo este proceso de análisis que se alarga durante una semana entera, en muchos proyectos en los que yo he trabajado se han dedicado unas pocas horas de investigación o incluso en un par de reuniones y toma de requisitos con el cliente.
 
