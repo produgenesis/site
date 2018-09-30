@@ -8,7 +8,6 @@ author: chema
 thumbnail: /public/thumbnail/01.jpg
 credits-photo: John Fornander, unsplash.com
 ---
-
 Si has leído algo sobre nosotros, sabes que llevamos tiempo trabajando en buscar una idea o proyecto que nos lleve a crear un buen producto (digital o no), y por eso llamamos a este blog Produgénesis: El origen de un producto. Desde el principio sabíamos que esto no iba a ser fácil, pero teníamos claro que iba a ser una aventura en la que íbamos a aprender mucho. 
 
 Como esperábamos, hemos estado meses divagando, andando por el desierto e intentado estimular nuestra creatividad con miniproyectos o ideas de todo tipo (incluyendo una web homenaje a la Vida de Brian, tal cual) y de repente, uno de nosotros tiene una visión cada vez más clara: Crear una Agencia para diseñar productos. 
