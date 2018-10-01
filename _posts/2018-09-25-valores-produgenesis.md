@@ -5,8 +5,8 @@ permalink: /valores-produgenesis/
 date:   2018-09-19 09:00:00 +0200
 categories: Personal
 author: chema
-thumbnail: /public/thumbnail/01.jpg
-credits-photo: John Fornander, unsplash.com
+thumbnail: /public/img/2018/maxresdefault.jpg
+credits-photo: The Unknown Marx Brothers Documentary 1993, youtube.com
 ---
 La produgénesis que estamos llevando a cabo ya empieza a cobrar forma, en el horizonte se avista una agencia, con claros ramalazos de especialistas en ecommerce y diseño de producto, UX...E incluso estamos realizando algún experimento inicial con “fuego real” y la cosa está pintando realmente bien….
 
