@@ -5,7 +5,7 @@ permalink: /cuando-tu-eres-el-cliente/
 date:   2018-09-19 09:00:00 +0200
 categories: Personal
 author: chema
-thumbnail: /public/thumbnail/cuando-eres-el-cliente.jpg
+thumbnail: /public/img/2018/cuando-eres-el-cliente.jpg
 credits-photo: John Fornander, unsplash.com
 ---
 
