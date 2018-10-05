@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Una produgenesis explosiva"
-permalink: /produgenesis-explosiva/
+title:  "Cuando tu eres el cliente...y no te has dado cuenta"
+permalink: /cuando-tu-eres-el-cliente/
 date:   2018-09-19 09:00:00 +0200
 categories: Personal
 author: chema
