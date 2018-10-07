@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "No me cuentes historias...crea un caso de éxito ya"
-permalink: /chema/
+permalink: /casos-exito-ya/
 date: 2018-02-02 09:00:00 +0200
 categories: Personal
 author: chema
