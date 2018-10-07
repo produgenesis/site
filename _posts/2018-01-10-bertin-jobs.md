@@ -5,7 +5,7 @@ permalink: /bertin-jobs/
 date:   2018-01-10 09:00:00 +0200
 categories: Emprendimiento
 author: Chema
-thumbnail: /public/thumbnail/01.jpg
+thumbnail: /public/img/2018/bertinjobs.jpg
 credits-photo: Chema Navarro, produgenesis.com
 ---
 Mucho se ha habla de lo difícil que es emprender en España, no te voy a contar nada que ya no sepas: Que si la administración lo pone difícil, que si el alta de autónomos, IVA, Ejemplo de ello es que Deliotte solo muestra una startup española en su listado <a href="https://www2.deloitte.com/global/en/pages/technology-media-and-telecommunications/articles/technology-fast-500-emea.html" target="_blank"> EMEA de 2017...</a>Vamos que el panorama no es muy favorable como bien sabes.
