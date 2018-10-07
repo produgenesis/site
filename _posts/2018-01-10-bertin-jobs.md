@@ -8,7 +8,7 @@ author: Chema
 thumbnail: /public/thumbnail/01.jpg
 credits-photo: John Fornander, unsplash.com
 ---
-Mucho se ha habla de lo difícil que es emprender en España, no te voy a contar nada que ya no sepas: Que si la administración lo pone difícil, que si el alta de autónomos, IVA, Ejemplo de ello es que Deliotte solo muestra una startup española en su listado EMEA de 2017...Vamos que el panorama no es muy favorable como bien sabes.
+Mucho se ha habla de lo difícil que es emprender en España, no te voy a contar nada que ya no sepas: Que si la administración lo pone difícil, que si el alta de autónomos, IVA, Ejemplo de ello es que Deliotte solo muestra una startup española en su listado <a href="https://www2.deloitte.com/global/en/pages/technology-media-and-telecommunications/articles/technology-fast-500-emea.html" target="_blank"> EMEA de 2017...</a>Vamos que el panorama no es muy favorable como bien sabes.
 Pero amigos,  hay una amenaza que todo buen emprendedor ha sufrido en silencio y hasta ahora nadie le ha dado la importancia que tiene. Me refiero a ese compañero paliza en el coworking, al que te llama para pedirte presupuestos cada dos por tres y luego no sabes nada de él en semanas,  al pesado que conociste en un Meetup y desde entonces no te puedes quitar de encima...Estoy seguro que si estás leyendo esto, en tu cabeza tienes a alguien que te encaja perfectamente en este perfil.
 
 Pues bien, ¿Cómo referirnos a este tipo de personas tan habituales en nuestro día a día de emprendimiento? Yo propongo un término: El Bertín Jobs, el cuñado emprendedor que todos nos encontramos en algún momento de nuestra vida.
