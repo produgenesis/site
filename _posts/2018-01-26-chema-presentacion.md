@@ -10,10 +10,10 @@ credits-photo: John Fornander, unsplash.com
 ---
 ¡Todavía no me he presentado!
 
-<quote>Pleased to meet you
+<quote>"Pleased to meet you
 Hope you guess my name
 But what's puzzling you
-Is the nature of my game
+Is the nature of my game"
 </quote>
 
 Sympathy for the Devil-Sus satánicas majestades, los Rolling.
