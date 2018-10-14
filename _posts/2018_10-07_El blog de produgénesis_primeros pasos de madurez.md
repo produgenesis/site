@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "El blog de produgénesis: primeros pasos de madurez"
-permalink: /cuando-tu-eres-el-cliente/
+permalink: /El-blog-de-produgenesis-primeros-pasos/
 date:   2018-10-07 09:00:00 +0200
 categories: Personal
 author: chema
