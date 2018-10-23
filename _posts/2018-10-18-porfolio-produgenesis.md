@@ -5,7 +5,7 @@ permalink: /El reto del portfolio de Codecantor/
 date:   2018-10-07 09:00:00 +0200
 categories: Personal
 author: chema
-thumbnail: /public/img/2018/15280_aliens_xenomorph.jpg
+thumbnail: /public/img/2018/35211.jpg
 credits-photo: aliens.wikia.com
 
 ---
