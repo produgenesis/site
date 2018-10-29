@@ -11,11 +11,11 @@ credits-photo: John Fornander, unsplash.com
 
 Mientras seguimos en medio de una produgenesis explosiva en el grupo (ver post anterior), acordamos que cada uno de nosotros realizar una retrospectiva de algún proyecto interesante del pasado. 
 
-En la cultura europea, o al menos en la española, no se le da mucha importancia al ejercicio de las retrospectivas. Preferimos el modelo “huida hacia adelante” y si funciona “no lo toques”. Esto, choca mucho con otras culturas como la japonesa, donde la filosofía <a href="https://es.wikipedia.org/wiki/Kaizen">Kayzen</a> de mejora contínua engloba cualquier tipo de trabajo: Industrial, Intelectual, etc…
+En la cultura europea, o al menos en la española, no se le da mucha importancia al ejercicio de las retrospectivas. Preferimos el modelo “huida hacia adelante” y si funciona “no lo toques”. Esto, choca mucho con otras culturas como la japonesa, donde la filosofía <a href="https://es.wikipedia.org/wiki/Kaizen" target="_blank">Kayzen</a> de mejora contínua engloba cualquier tipo de trabajo: Industrial, Intelectual, etc…
 
 ¿Por qué es bueno hacer retrospectivas?
 
-Muy fácil, por que todo realmente es mejorable, y si aceptas que puedes mejorar constantemente, tu área de confort y calidad del trabajo será mucho más fuerte de forma contínua.  Si por el contrario, prefieres hablar de lo que vas a hacer a futuro, sin analizar lo que ya has realizado, o puedes mejorar, es posible que siempre estés en un bucle de repetir viejos errores.. La retrospectiva por ejemplo es un evento propio en el framework de <a href="https://es.wikipedia.org/wiki/Kaizen">SCRUM </a> Tan importante como cualquier otro de los eventos.
+Muy fácil, por que todo realmente es mejorable, y si aceptas que puedes mejorar constantemente, tu área de confort y calidad del trabajo será mucho más fuerte de forma contínua.  Si por el contrario, prefieres hablar de lo que vas a hacer a futuro, sin analizar lo que ya has realizado, o puedes mejorar, es posible que siempre estés en un bucle de repetir viejos errores.. La retrospectiva por ejemplo es un evento propio en el framework de <a href="https://es.wikipedia.org/wiki/Scrum" target="_blank">SCRUM </a> Tan importante como cualquier otro de los eventos.
 
 Decía Steve Jobs que Innovación es decir NO a mil cosas, a mi modo de ver, esto no deja de ser un buen ejercicio de Restrospectiva.
 
