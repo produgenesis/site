@@ -6,7 +6,7 @@ date:   2018-10-29 09:00:00 +0200
 categories: Personal
 author: chema
 thumbnail: /public/img/2018/Business+Model+Canvas.png
-credits-photo: <a href="https://isaacjeffries.com">isaacjeffries.com</a>
+credits-photo: Foto sacada del blog de Isaac Jeffries <a href="https://isaacjeffries.com">isaacjeffries.com</a>
 
 ---
 
