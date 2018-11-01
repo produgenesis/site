@@ -22,8 +22,9 @@ En mi cabeza, me vino clara la imagen del Canvas para evitar este tipo de situac
 <h3>Antes de seguir: ¿Cómo funciona un Businnes Canvas?</h3>
 
 
-Básicamente, se trata de un lienzo (por eso lo de Canvas) donde aparecer 9 módulos o segmentos, cada uno de ellos coresponde a un área diferente del negocio: Clientes, Canales, Actividades clave, etc... Existe todo tipo de literatura y técnicas para depurar y llevar más allá esta herramienta. 
-
+Básicamente, se trata de un lienzo (por eso lo de Canvas) donde aparecer 9 módulos o segmentos, cada uno de ellos coresponde a un área diferente del negocio: Clientes, Canales, Actividades clave, etc... La gracia está en rellenar cada módulo con post-it que te permiten ir añadiendo ideas y conceptos a cada módulo con tu equipo. Es un excelente ejercicio grupal para avanzar de forma conjunta y alinear conceptos. Existe todo tipo de literatura y técnicas para depurar y llevar más allá esta herramienta.
+Te recomiendo que te pases por la página oficial de <a href="https://strategyzer.com" target="_blank">Strategyzer</a>, los verdaderos creadores de este método, en su web encontrarás todo tipo de recursos, vídeos, y material adicional que te ayudará a conocer mejor esta fantástica herramienta. 
+ 
 En Produgénesis por ejemplo,  con el fin de poder definir correctamente el tipo de Agencia que queremos desarrollar, volcamos todas nuestras ideas en un Businnes Canvas propio que por cierto, hemos diseñado con <a href="https://www.cacoo.com" target="_blank">Cacoo</a>, una sencilla herramienta de dibujo, y completamente gratis.
 
 <h3>Ventajas de usar Business Canvas para diseñar una web:</h3>
