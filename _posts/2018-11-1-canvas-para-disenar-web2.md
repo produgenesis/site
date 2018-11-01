@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Bussines Canvas para diseñar una web.  Parte 1"
-permalink: /Bussines Canvas para diseñar una web.  Parte 1/
+title:  "Bussines Canvas para diseñar una web.  Parte 2"
+permalink: /Bussines Canvas para diseñar una web.  Parte 2/
 date:   2018-10-29 09:00:00 +0200
 categories: Personal
 author: chema
