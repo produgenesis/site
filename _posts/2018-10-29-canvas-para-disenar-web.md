@@ -10,15 +10,31 @@ credits-photo: Foto sacada del blog de Isaac Jeffries <a href="https://isaacjeff
 
 ---
 
-El Bussines canvas es una herramienta super útil que todos los emprendedores conocemos para diseñar modelos de negocio. Si no es tu caso, te animo a que te des una vuelta por <a href="https://es.wikipedia.org/wiki/Lienzo_de_modelo_de_negocio" target="_blank">aquí</a>, y conozcas este recurso maravilloso. 
+Bussines canvas es una herramienta muy útil que muchos emprendedores conocen para diseñar modelos de negocio. Si no conoces la herramienta, te animo a que te des una vuelta por <a href="https://es.wikipedia.org/wiki/Lienzo_de_modelo_de_negocio" target="_blank">aquí</a>, y conozcas este recurso maravilloso. Lo bueno que tiene el Canvas es que te permite tener un foco visual donde se contempla todas las variables posibles de un modelo de negocio.  
 
-En Produgénesis, con el fin de poder definir correctamente el tipo de Agencia que queremos desarrollar, volcamos todas nuestras ideas en un Businnes Canvas que por cierto, hemos diseñado con <a href="https://www.cacoo.com" target="_blank">Cacoo</a>, una sencilla  herramienta de dibujo, y gratis. 
+En esa misma semana, en un proyecto con un cliente, nos percatamos que con toda la web ya prácticamente lista, los wireframes aprobados y todo listo para entrar en produccion, el cliente no tenía claro cómo deberían contactar los clientes con él por medio de la web: ¿Por medio de un Formulario? ¿Por medio de un email? ¿Teléfono? 
 
-Lo bueno que tiene el Canvas es que te permite tener un foco visual donde se contempla todas las variables posibles de un modelo de negocio.  
+<h3>¿Cómo puede ser posible que a estas alturas del proyecto algo tan obvio no estuviera claro? </h3>
 
-En esa misma semana, en otro proyecto, nos percatamos que con toda la web ya prácticamente lista, los wireframes aprobados y todo casi en produccion, el cliente no tenía claro cómo deberían contactar los clientes con él por medio de la web: ¿Por medio de un Formulario? ¿Por medio de un email? tlf?
 
-En mi cabeza, me vino clara la imagen del Canvas con el módulo “RCI: Relaciones con los clientes” donde debes indicar cómo te relacionas con tus clientes. Desde ese momento tengo en mente hacer un diseño de una web desde 0, contemplando con un Business Canvas todos los puntos clave en un proyecto de estas características. 
+En mi cabeza, me vino clara la imagen del Canvas para evitar este tipo de situaciones, precisamente con el módulo “RCI: Relaciones con los clientes” del lienzo debes indicar cómo te relacionas con tus clientes. Desde ese momento tengo en mente hacer un diseño de una web desde 0 diseñada con un Business Canvas.
+
+<h3>Antes de seguir: ¿Cómo funciona un Businnes Canvas?</h3>
+
+
+Básicamente, se trata de un lienzo (por eso lo de Canvas) donde aparecer 9 módulos o segmentos, cada uno de ellos coresponde a un área diferente del negocio: Clientes, Canales, Actividades clave, etc... Existe todo tipo de literatura y técnicas para depurar y llevar más allá esta herramienta. 
+
+En Produgénesis por ejemplo,  con el fin de poder definir correctamente el tipo de Agencia que queremos desarrollar, volcamos todas nuestras ideas en un Businnes Canvas propio que por cierto, hemos diseñado con <a href="https://www.cacoo.com" target="_blank">Cacoo</a>, una sencilla herramienta de dibujo, y completamente gratis.
+
+<h3>Ventajas de usar Business Canvas para diseñar una web:</h3>
+
+1. Se trata de un espacio visual donde todo el equipo: Desarrollo, Product Owner o Steakholders pueden alinear su visión de todos los puntos clave en un proyecto de estas características. 
+
+2. El business canvas nos obliga a rellenar cada módulo para poder dejarlo finalizado: Esto nos permite tener una visión de todo el proyecto web y evitar cosas como "dejar para el final" el saber si en la web debe aparecer un teléfono, un formulario de contacto o un bot. 
+
+3. El business Canvas te permite iterar e ir dejando documentado el proceso de creación de la web.
+
+En la segunda parte de este blog describiremos en detalle cada módulo y como poder rellenarlo para poder tener una visión completa de nuestro proyecto web. 
 
 Sin querer entrar en detalle de cómo funciona el BC, si que me gustaría enumerar los diferentes módulos que componen el lienzo para poner un ejemplo de cómo poder adaptar el mismo lienzo para diseñar nuestro proyecto web con esta técnica.
 
