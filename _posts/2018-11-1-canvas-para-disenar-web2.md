@@ -5,7 +5,7 @@ permalink: /Bussines Canvas para diseñar una web.  Parte 2/
 date:   2018-10-29 09:00:00 +0200
 categories: Personal
 author: chema
-thumbnail: /public/img/2018/Business+Model+Canvas.png
+thumbnail: /public/img/2018/1837.jpg
 credits-photo: Foto de negocios creado por peoplecreations <a href="https://www.freepik.es/fotos-vectores-gratis/negocios">- www.freepik.es</a>
 
 ---
