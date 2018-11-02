@@ -6,12 +6,12 @@ date:   2018-10-29 09:00:00 +0200
 categories: Personal
 author: chema
 thumbnail: /public/img/2018/Business+Model+Canvas.png
-credits-photo: Foto sacada del blog de Isaac Jeffries <a href="https://isaacjeffries.com">isaacjeffries.com</a>
+credits-photo: Foto de negocios creado por peoplecreations <a href="https://www.freepik.es/fotos-vectores-gratis/negocios">- www.freepik.es</a>
 
 ---
 En la primera parte de este post hablamos de las ventajas que puede ofrecernos el Business Model Canvas para enfocar un proyecto web desde 0. 
 
-Sin querer entrar en detalle de cómo funciona el BC, vamos a describir brevemente los diferentes módulos que componen el lienzo para tener un ejemplo de cómo poder adaptar esta herramienta al diseño de una web. 
+Sin querer entrar en detalle de cómo funciona el BC, vamos a describir brevemente los diferentes módulos que componen el lienzo. De esta forma podemos tener un ejemplo de cómo poder adaptar esta herramienta al diseño completo de una web. 
 
 El orden de los módulos es importante por que nos va a permitir seguir un criterio lógico en el diseño de la web:
 <ul>
