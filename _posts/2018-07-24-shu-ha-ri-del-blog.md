@@ -5,7 +5,7 @@ permalink: /shu-ha-ri-blog-produgenesis/
 date:   2018-07-24 09:00:00 +0200
 categories: Personal
 author: chema
-thumbnail: /public/thumbnail/wax_on_wax_off.png
+thumbnail: /public/public/img/2018/wax_on_wax_off.png
 credits-photo: Karate Kid 1884 , Sony Pictures Home Entertainment
 ---
 
