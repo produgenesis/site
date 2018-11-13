@@ -2,7 +2,7 @@
 layout: post
 title:  "La productividad bien entendida"
 permalink: /productividad/
-date:   2018-10-29 09:00:00 +0200
+date:   2018-11-07 09:00:00 +0200
 categories: Personal
 author: chema
 thumbnail: /public/img/2018/1837.jpg
