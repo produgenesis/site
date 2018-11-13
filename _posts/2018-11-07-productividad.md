@@ -6,7 +6,7 @@ date:   2018-11-07 09:00:00 +0200
 categories: Personal
 author: chema
 thumbnail: /public/img/2018/1837.jpg
-credits-photo: Foto de negocios creado por peoplecreations <a href="https://www.freepik.es/fotos-vectores-gratis/negocios">- www.freepik.es</a>
+credits-photo:Foto: Lidia Valentín, en una imagen de archivo (EFE)
 
 ---
 En nuestro trabajo acostumbro mucho a decir la frase: “Nos ponemos a producir” como si esta fuera la solución de todo. “Producir”, como si le pudieras dar al botón de desarrollo y todo estuviera listo.. ¿Suena fácil, verdad?
