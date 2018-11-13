@@ -16,7 +16,7 @@ Cuando hablamos de producir, ser productivo o simplemente “Productividad”, �
 <h4>¿Qué necesitas para ser productivo?</h4>
 Cuando preguntas estas cosas la mayoría de la gente te dice “Tiempo”, y estoy de acuerdo, necesitas tiempo, pero no es lo único, de hecho en mi opinión solo es el 33% de los ingredientes que necesitas para ser productivo. Hay dos elementos más: Foco y esfuerzo.
 
-Productividad=tiempo+foco+esfuerzo
+<blockquote>Productividad=tiempo+foco+esfuerzo</blockquote>
 
 Te pongo un ejemplo: Puedes estimar que una tarea te lleva 2 horas, pero si te interrumpen varias veces o tu te pones a procrastinar, ten por seguro que el haber marcado en tu agenda esas “dos horitas” no han servido para mucho.  
 
