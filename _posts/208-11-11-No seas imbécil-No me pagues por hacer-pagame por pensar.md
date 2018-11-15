@@ -6,7 +6,7 @@ date:   2018-11-11 09:00:00 +0200
 categories: Personal
 author: chema
 thumbnail: /public/thumbnail/01.jpg
-credits-photo: John Fornander, unsplash.com
+credits-photo: <a href="https://www.freepik.es/fotos-vectores-gratis/fondo">Foto de fondo creado por freepik - www.freepik.es</a>
 ---
 El otro día fui a ver Bohemian Rhapsody, la biografía de Fredy Mercu...digo de Queen, y por cierto, me ha encantado.  :-) Lamentablemente voy a hacer un pequeño spoiler por aquí, hay una escena en la que Fredy Mercury vuelve con Queen después de un tiempo en solitario, este les dice al resto del grupo algo así: 
 
