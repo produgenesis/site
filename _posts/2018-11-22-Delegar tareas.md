@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Delegar tareas.. el primer error en la gestión de proyectos."
-permalink: /chema/
+permalink: /delegar-tareas/
 date:   2018-11-22 09:00:00 +0200
 categories: Personal
 author: chema
