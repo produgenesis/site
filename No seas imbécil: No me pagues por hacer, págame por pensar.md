@@ -24,4 +24,3 @@ Creo que en el fondo es algo cultural, no nos gusta hablar de los problemas, pen
 Os pongo un ejemplo: Si me contratas para “hacer una web nueva”, vale ok, la puedo hacer, pero hemos perdido una oportunidad de oro de saber, “por qué” necesitas una web nueva: ¿No vendes lo suficiente? ¿Estás sancionado por los principales buscadores? si en lugar de pedirme una web nueva, me preguntas: Chema, no consigo vender lo suficiente en mi web actual: ¿Cómo lo podemos mejorar? De una forma muy sencilla has puesto la primera piedra para mejorar tu negocio desde el problema, no desde una solución. 
 
 En Codecantor tenemos muchos ejemplos, y estamos 100% seguros que este es el único camino al éxito. Aprovecha la oportunidad, valoremos el problema juntos, no me pagues solo por hacer, aprovecha y págame por pensar. 
-

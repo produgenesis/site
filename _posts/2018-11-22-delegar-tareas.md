@@ -6,7 +6,7 @@ date:   2018-11-22 08:00:00 +0200
 categories: Personal
 author: chema
 thumbnail: /public/thumbnail/airbnb-unsplash.jpg
-credits-photo: Rugby 365: www.rugby365.fr
+credits-photo: Rugby 365 
 ---
 Muchas veces en management, hablamos de lo importante que es delegar tareas en el equipo…Visto con perspectiva, el concepto de “delegar tareas”, si no se desarrolla correctamente,  es una completa estupidez que complica infinitamente un proyecto. 
 
