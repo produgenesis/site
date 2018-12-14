@@ -2,7 +2,7 @@
 layout: post
 title:  "Orgulloso de tu tamaño"
 permalink: /agencia-pequena/
-date:   2018-13-12 09:00:00 +0200
+date:   2018-12-13 09:00:00 +0200
 categories: Emprendimiento
 author: Chema
 thumbnail: /public/img/2018/bertinjobs.jpg

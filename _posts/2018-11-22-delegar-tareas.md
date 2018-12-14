@@ -2,7 +2,7 @@
 layout: post
 title:  "Delegar Tareas"
 permalink: /tareas/
-date:   2018-11-22 08:00:00 +0200
+date:   2018-11-22 09:00:00 +0200
 categories: Personal
 author: chema
 thumbnail: /public/thumbnail/airbnb-unsplash.jpg
