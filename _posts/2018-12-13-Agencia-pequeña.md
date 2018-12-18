@@ -5,8 +5,8 @@ permalink: /agencia-pequena/
 date:   2018-12-13 09:00:00 +0200
 categories: Emprendimiento
 author: Chema
-thumbnail: /public/img/2018/bertinjobs.jpg
-credits-photo: Chema Navarro, produgenesis.com
+thumbnail: /public/img/2018/15914.jpg
+credits-photo: <a href="https://www.freepik.es/fotos-vectores-gratis/personas">Foto de rawpixel.com - www.freepik.es</a>
 ---
 Hace unos años, cuando la figura del freelance no estaba tan extendida. Era habitual sentarse delante de un cliente y  escuchar la pregunta terrible de: ¿Cuántos sois en vuestra empresa? Ante esa pregunta, había dos modelos más o menos:
 
