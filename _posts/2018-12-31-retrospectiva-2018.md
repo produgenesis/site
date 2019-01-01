@@ -6,7 +6,8 @@ date:   2018-12-31 09:00:00 +0200
 categories: Emprendimiento
 author: Chema
 thumbnail: /public/img/2018/15914.jpg
-credits-photo: <a href="https://www.freepik.es/fotos-vectores-gratis/personas">Foto de rawpixel.com - www.freepik.es</a>
+credits-photo: <a href="https://www.freepik.es/fotos-vectores-gratis/coche">Foto de coche creado por rawpixel.com - www.freepik.es</a>
+
 ---
 El 2018 se nos va, quedan pocas horas, y no se vosotros, pero a mi me encanta hacer balance de estos meses, de las cosas que he realizado, las que tengo que mejorar etc..
 
