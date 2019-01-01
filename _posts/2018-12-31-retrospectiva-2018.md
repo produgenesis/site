@@ -5,7 +5,7 @@ permalink: /retrospectiva-del-2018/
 date:   2018-12-31 09:00:00 +0200
 categories: Emprendimiento
 author: Chema
-thumbnail: /public/img/2018/15914.jpg
+thumbnail: /public/img/2018/30189.jpg
 credits-photo: <a href="https://www.freepik.es/fotos-vectores-gratis/coche">Foto de coche creado por rawpixel.com - www.freepik.es</a>
 
 ---
