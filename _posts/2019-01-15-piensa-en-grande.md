@@ -16,6 +16,6 @@ A mi personalmente me pasa igual, y reflexionando, me he dado cuenta que con los
 
 Pero en los últimos meses, estoy teniendo una percepción diferente del significado de esta frase, me he dado cuenta que el principio de “hacer en pequeño” es mucho más que una forma de controlar un proyecto. Te permite disfrutar  de pequeños hitos, o “micropremios” y ser más feliz en el trabajo. No solo es necesario fragmentar los proyectos en pequeñas tareas, también debes disfrutar al final del día de esas “pequeñas victorias” que te permitan algún día finalizar el gran proyecto.
 
-Os deseo a todos un feliz año 2019, un momento ideal para Pensar en grande en vuestras metas  y hacer en pequeño. 
+Os deseo a todos un feliz año 2019, un momento ideal para Pensar en grande en vuestras metas y ser felices con los pequeños objetivos. ;)
 
 
