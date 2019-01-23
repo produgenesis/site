@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "No seas imbécil: No me pagues por hacer, págame por pensar."
-permalink: /chema/
+permalink: /pagame-por-pensar/
 date:   2018-11-11 09:00:00 +0200
 categories: Personal
 author: chema
