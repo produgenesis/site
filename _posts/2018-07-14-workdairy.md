@@ -18,11 +18,11 @@ Puede ser lo que quieras, puedes transmitir si estabas inseguro, si estabas cont
 
 ## Manos a la obra
 
-Cada uno tiene "sus procederes". Hace poco entré de nuevo al diario para revisar una tabla de precios que añadí para saber cuánto me costó la primera vez que usé Zeplin e Invision. Pero hay otros detales más puntillosos que son tremendamente básicos, como el día que conoces a un nuevo cliente, cómo te contacta, qué precio / hora acordaste en ese momento, si salió mal, si salió bien, absolutamente todo.
+Cada uno tiene "sus procederes". Hace poco entré de nuevo al diario para revisar una tabla de precios que añadí para saber cuánto me costó la primera vez que usé Zeplin e Invision (que son dos servicios de pago para diseñar). Pero hay otros detales más puntillosos que son tremendamente básicos, como el día que conoces a un nuevo cliente, cómo te contacta, qué precio / hora acordaste en ese momento, si salió mal, si salió bien, absolutamente todo.
 
 Yo hace tiempo que decidí aplicarme el cuento y empecé a desarrollar el mío, básicamente un documento de texto en Google Drive, escrito cronológicamente a la inversa. 
 
-Al principio hasta añadí marcas e índices para separa claramente cada etapa, pero la realidad es que con un simple `⌘ + F` puedo realizar un viaje al pasado provechoso. Únicamente detallo el año y el día/semana que estoy escribiendo, con algún título si es destacable.
+Al principio hasta añadí marcas e índices para separar claramente cada etapa, pero la realidad es que con un simple  `⌘ + F` puedo realizar un viaje al pasado provechoso. Únicamente detallo el año y el día/semana que estoy escribiendo, con algún título si es destacable.
 
 Hugo por ejemplo propone hacerlo diariamente 5 minutos al terminar el día para recopilar lo que se ha hecho en la jornada, y otros 5 minutos por la mañana para ver lo que quedó pendiente el día anterior. La idea es que puedas detallar por ejemplo el día que contactaste con el cliente X por primera vez, y el día que logramos finalmente poner su proyecto en producción.
 
