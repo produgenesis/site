@@ -32,6 +32,6 @@ Además, no hay que olvidar que escribir, como disciplina, es  algo que suele ha
 
 La verdad es que la primera vez que  leí "un diario de trabajo" me pareció una idea brillante, y tardé años en ponerla en práctica, ahora me arrepiento de no haber registrado otras etapas que ya han pasado, como el primer día de trabajo o el último, unas fotografías de las mesas en las oficinas en las que has pasado cientos de horas y otros muchos recuerdos.
 
-Es más, la primera vez que lo abrí estaba tan impaciente por rellenarlo que intenté "incluir un montón de recuerdos" para tener una vista macro de lo que quería ir escribiendo, y gracias a eso puedo tener una perspectiva más clara de la trayectoria que llevo y, sobretodo, hacia dónde voy.
+Lo más curioso de todo esto es que es fácil tener "una vista de pájaro" de todo lo que has ido haciendo a lo largo del tiempo,  y gracias a eso puedo tener una perspectiva más clara de la trayectoria que llevo y, sobretodo, hacia dónde voy.
 
 *Créditos foto: [@esteejanssens](https://unsplash.com/@esteejanssens)*
