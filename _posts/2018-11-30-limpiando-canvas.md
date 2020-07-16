@@ -5,8 +5,8 @@ permalink: /limpiando-canvas/
 date:   2018-11-30 09:00:00 +0200
 categories: Personal
 author: chema
-thumbnail: /public/thumbnail/01.jpg
-credits-photo: John Fornander, unsplash.com
+thumbnail: /public/thumbnail/postits.jpg
+credits-photo: epicantus, unsplash.com
 ---
 En los últimos dos meses nos hemos estado reuniendo para dar forma al Business Model Canvas de Codecantor. De forma relativamente organizada, hemos ido rellenando los diferentes segmentos del Canvas, las asociaciones clave, los tipos de clientes, etc…
 Otra cosa no, pero hablar se nos da realmente bien a los tres, y esto, traducido en ideas, se ha convertido en una nube de post-it enorme. Está siendo una experiencia realmente positiva. 

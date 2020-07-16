@@ -6,8 +6,8 @@ description: ""
 date:   2018-09-30 04:00:00 -0300
 categories: diseño
 author: gruncho
-thumbnail: /public/thumbnail/meeting.jpg
-credits-photo: Foto por unsplash.com/@everywheresean y Medium Google Ventures.
+thumbnail: /public/thumbnail/time.jpg
+credits-photo: Foto por unsplash.com/@loic y Medium Google Ventures.
 ---
 El otro día estuve un un *off site meeting* de una empresa en un pueblo de la Sierra de Albarracín, sin cobertura, buscando setas y comiendo de cine. Por si no lo sabes, un *off site* es una serie de actividades al aire libre y sesiones de trabajo en grupo compuesto por dinámicas y charlas de otros compañeros y compañeras. El **objetivo principal del evento es crear cultura de empresa**, pero también afianzar relaciones entre compañeros, dar a conocer futuros proyectos y&o conocer con más detalle las tareas que realizan el resto de personas que componen o participan de alguna forma en la compañía.
 

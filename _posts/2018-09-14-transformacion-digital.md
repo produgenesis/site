@@ -5,8 +5,8 @@ permalink: /transformacion-digital/
 date:   2018-09-14 09:00:00 +0200
 categories: Personal
 author: chema
-thumbnail: /public/thumbnail/01.jpg
-credits-photo: John Fornander, unsplash.com
+thumbnail: /public/thumbnail/transf-digital.jpg
+credits-photo: frostroomhead, unsplash.com
 ---
 Desde hace mucho tiempo venimos escuchando en uno u otro sitio el machacón concepto de Transformación digital. Ahí está, con ese zumbido, como la canción del verano. Si te dedicas al marketing, las ventas, la dirección de empresas… Todo tiene que pasar por Transformación digital. Y llegados a este punto machachón… que narices es la Transformación Digital?
 
