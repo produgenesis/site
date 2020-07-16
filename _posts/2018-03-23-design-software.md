@@ -5,8 +5,8 @@ permalink: /design-software/
 date:   2018-03-23 08:00:00 +0200
 categories: Diseño
 author: gruncho
-thumbnail: /public/thumbnail/01.jpg
-credits-photo: John Fornander, unsplash.com
+thumbnail: /public/thumbnail/figma.jpg
+credits-photo: charlesdeluvio, unsplash.com
 ---
 La semana pasada publiqué un artículo haciendo un repaso sobre [cómo los diseños de sistemas están cambiando el flujo de trabajo en las empresas orientadas al producto]({{ site.url }}/design-systemlos), y al sector del diseño en general.
 

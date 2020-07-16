@@ -5,8 +5,8 @@ permalink: /workdiary/
 date:   2018-07-14 08:00:00 +0200
 categories: Personal
 author: gruncho
-thumbnail: /public/thumbnail/01.jpg
-credits-photo: John Fornander, unsplash.com
+thumbnail: /public/thumbnail/writter.jpg
+credits-photo: chrisspiegl, unsplash.com
 ---
 En 2012, cuando todavía en twitter era común seguir a más bloggers que compañeros/as de trabajo y "amigos" del MundoReal™, [leí un artículo interesante de Hugo Cornejo](http://infa.me/diario-de-trabajo/), *Head of Design* en [Monzo](https://monzo.com/), en el que describía cómo de provechoso puede llegar a ser un diario y más concretamente, un diario de trabajo.
 
