@@ -5,8 +5,8 @@ permalink: /design-system/
 date:   2018-02-24 08:00:00 +0200
 categories: Diseño
 author: gruncho
-thumbnail: /public/thumbnail/airbnb-unsplash.jpg
-credits-photo: unsplash.com/@jpa
+thumbnail: /public/thumbnail/lego.jpg
+credits-photo: xavi_cabrera, unsplash.com
 ---
 Fué en 2013 cuando <a href="http://bradfrost.com/blog/post/atomic-web-design/" target="_blank">Brad Frost publicó el famoso libro Atomic Design</a>, una "guía para diseñadores" que trata de juntar un principio básico del desarrollo orientado a componentes. 
 

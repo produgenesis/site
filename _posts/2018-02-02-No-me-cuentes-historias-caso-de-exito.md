@@ -5,8 +5,8 @@ permalink: /casos-exito-ya/
 date: 2018-02-02 09:00:00 +0200
 categories: Personal
 author: chema
-thumbnail: /public/thumbnail/01.jpg
-credits-photo: John Fornander, unsplash.com
+thumbnail: /public/thumbnail/working-laptop.jpg.jpg
+credits-photo: christinhumephoto, unsplash.com
 ---
 No me cuentes historias...crea un caso de éxito ya.
 
